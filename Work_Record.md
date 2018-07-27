@@ -82,8 +82,8 @@
 
 ## 2018.7.27
 ### git远程和本地同步
-1.远程建仓库，本地建仓库,本地初始化：```git init```
-2.(在新的电脑上:```ssh-keygen -t rsa -C "1770723422@qq.com"```在用户主目录生成公钥和私钥，将公钥添加到账户的ssh key)
-3.将远程和本地库关联起来：```git remote add origin git@github.com:LWTang/PyQt-learn.git```
-4.将远程库pull到本地：```git pull origin master```
-5.开始表演(⊙o⊙)…
+1. 远程建仓库，本地建仓库,本地初始化：```git init```
+2. (在新的电脑上:```ssh-keygen -t rsa -C "1770723422@qq.com"```在用户主目录生成公钥和私钥，将公钥添加到账户的ssh key)
+3. 将远程和本地库关联起来：```git remote add origin git@github.com:LWTang/PyQt-learn.git```
+4. 将远程库pull到本地：```git pull origin master```
+5. 开始表演(⊙o⊙)…
