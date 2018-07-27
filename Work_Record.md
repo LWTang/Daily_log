@@ -133,9 +133,11 @@
 </ul>
 <h2 id="section-8">2018.7.27</h2>
 <h3 id="git远程和本地同步">git远程和本地同步</h3>
-<p>1.远程建仓库，本地建仓库,本地初始化：<code>git init</code><br>
-2. (在新的电脑上:<code>ssh-keygen -t rsa -C "1770723422@qq.com"</code>在用户主目录生成公钥和私钥，将公钥添加到账户的ssh key)<br>
-3. 将远程和本地库关联起来：<code>git remote add origin git@github.com:LWTang/PyQt-learn.git</code><br>
-4. 将远程库pull到本地：<code>git pull origin master</code><br>
-5. 开始表演(⊙o⊙)…</p>
+<ol>
+<li>远程建仓库，本地建仓库,本地初始化：<code>git init</code></li>
+<li>(在新的电脑上:<code>ssh-keygen -t rsa -C "1770723422@qq.com"</code>在用户主目录生成公钥和私钥，将公钥添加到账户的ssh key)</li>
+<li>将远程和本地库关联起来：<code>git remote add origin git@github.com:LWTang/PyQt-learn.git</code></li>
+<li>将远程库pull到本地：<code>git pull origin master</code></li>
+<li>开始表演(⊙o⊙)…</li>
+</ol>
 
