@@ -116,7 +116,9 @@
 ## 2018.8.13
 
 ### 框架对比
+
 名称 | 机构 | 支持语言 | 架构设计 | 性能 | stars | forks
+--- | --- | --- | --- | --- | --- | ---
 TensorFlow | Google | Python C++ Go Java | 优 | 优 | 63166 | 30639
 Caffe | 加州大学伯克利分校 | Python C++ Matlab | 良 | 良 | 18948 | 11657
 MXNet | 分布式机器学习社区 | DMLC Python C++ R Go Scala | 优 | 良 | 10338 | 3871
