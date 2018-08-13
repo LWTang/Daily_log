@@ -112,3 +112,15 @@
 3. 将远程和本地库关联起来：```git remote add origin git@github.com:LWTang/PyQt-learn.git```
 4. 将远程库pull到本地：```git pull origin master```
 5. 开始表演(⊙o⊙)…
+
+## 2018.8.13
+
+### 框架对比
+名称 | 机构 | 支持语言 | 架构设计 | 性能 | stars | forks
+TensorFlow | Google | Python C++ Go Java | 优 | 优 | 63166 | 30639
+Caffe | 加州大学伯克利分校 | Python C++ Matlab | 良 | 良 | 18948 | 11657
+MXNet | 分布式机器学习社区 | DMLC Python C++ R Go Scala | 优 | 良 | 10338 | 3871
+CNTK | Microsoft|  C++ Python | 中 | 优 | 11709 | 2968
+Theano | 蒙特利尔大学 | Python | 中 | 中 | 6617 | 2198
+Torch | Facebook | C Lua | 优 | 良 | 7079 | 2098
+PaddlePaddle | 百度 | Python C++ | 良 | 良 | 5110 | 1397
