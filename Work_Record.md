@@ -141,3 +141,12 @@ PaddlePaddle | 百度 | Python C++ | 良 | 良 | 5110 | 1397
 	* 按距离从小到大排序
 	* 取前k个数据对应的分类标签
 3. 将k个数据中出现次数最多的分类标签作为新数据的分类
+
+### 读取.txt文件
+1. fileObject = open('dir')
+2. fileObject.readline():一行一行的读取
+
+### python split()方法
+通过指定分隔符对**字符串**进行分割，返回分割后的**字符串列表**
+> str.split('str_cut', num)
+* str_cut:分割字符，num:分割次数(默认全部分割)
