@@ -169,14 +169,19 @@ d = [ [[0, 1, 2, 0, 1, 2]],
 ### python字典
 #### 基础
 python字典键必须不可变，所以可以是数字、字符串、元组，而列表就不行；值可以取任何类型
-	* 删除字典元素：```del dict[key]```
-	* 清空字典：```dict.clear()```,清空后是一个空字典
+* 删除字典元素：```del dict[key]```
+* 清空字典：```dict.clear()```,清空后是一个空字典
+
 #### dict.get()方法
-> dict.get(key, default=None)
-> key --- 字典中要查找的键
-> default --- 如果指定的键不存在，则返回default值;如果存在则返回对应键的value
+dict.get(key, default=None)
+```
+key --- 字典中要查找的键
+default --- 如果指定的键不存在，则返回default值;如果存在则返回对应键的value
+```
 #### dict.items()方法
 以列表形式返回遍历的(键，值)元组数组
-> >>>dict = {1:'j', 'j':2}
-> >>>print(dict.items())
+```
+>>>dict = {1:'j', 'j':2}
+>>>print(dict.items())
 dict_items(**[(1, 'j'), ('j', 2)]**)
+```
