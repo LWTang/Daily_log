@@ -224,11 +224,11 @@ dict_items([(1, 'j'), ('j', 2)])
 
 ## 2018.8.24
 ### 在html中包含特殊字符，见[这里](https://developer.mozilla.org/zh-CN/docs/Learn/HTML/Introduction_to_HTML/Getting_started)：
-1. <    &lt;
-2. >    &gt;
-3. "    &quot;
-4. '    &apos;
-5. &    &amp;
+1. <    \&lt;
+2. \>    \&gt;
+3. "    \&quot;
+4. '    \&apos;
+5. &    \&amp;
 
 ## 2018.8.27
 ### 文档内超链接(html语法)：
