@@ -236,3 +236,14 @@ dict_items([(1, 'j'), ('j', 2)])
 ## 2018.8.27
 ### 文档内超链接(html语法)：
 <a href="#7-23">跳转至7-23</a>
+
+### 多个html页面切换
+[https://github.com/LWTang/web-project](https://github.com/LWTang/web-project)
+
+### 描述列表(html)
+<dl>
+  <dt>description term</dt>
+  <dd>
+    描述列表使用与其他列表类型不同的闭合标签\<dl>; 此外，每一项都用\<dt>元素闭合。每个描述都用\<dd>(description description)元素闭合
+  </dd>
+</dl>
