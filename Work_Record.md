@@ -82,7 +82,7 @@
 
 * 要开始股票数据的挖掘了sad(┭┮﹏┭┮)
 
-## 2018.7.23
+<h2 id="7-23">2018.7.23</h2>
 
 ### 装MySQL、VS2017
 
@@ -221,3 +221,15 @@ dict_items([(1, 'j'), ('j', 2)])
 * html:段落文本、图片、6级标题、列表(有序列表```<ol>```，无序列表```<ul>```)
 * 列表内的每个项目被包括在一个```<li>```元素里
 * html链接：```<a href="https://github.com/LWTang">唐礼威的github</a>```(```href```是超文本引用hypertext reference)
+
+## 2018.8.24
+### 在html中包含特殊字符，见[这里](https://developer.mozilla.org/zh-CN/docs/Learn/HTML/Introduction_to_HTML/Getting_started)：
+1. <    &lt;
+2. >    &gt;
+3. "    &quot;
+4. '    &apos;
+5. &    &amp;
+
+## 2018.8.27
+### 文档内超链接(html语法)：
+<a href="#7-23">跳转至7-23</a>
