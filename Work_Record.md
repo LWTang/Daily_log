@@ -241,9 +241,25 @@ dict_items([(1, 'j'), ('j', 2)])
 [https://github.com/LWTang/web-project](https://github.com/LWTang/web-project)
 
 ### 描述列表(html)
+```html
 <dl>
   <dt>description term</dt>
   <dd>
-    描述列表使用与其他列表类型不同的闭合标签\<dl>; 此外，每一项都用\<dt>元素闭合。每个描述都用\<dd>(description description)元素闭合
+    描述列表使用与其他列表类型不同的闭合标签 dl; 此外，每一项都用 dt 元素闭合。每个描述都用 dd (description description)元素闭合
+  </dd>
+  <dt>second item</dt>
+  <dd>
+    hhhhhhhhhhhhh
+  </dd>
+</dl>
+```
+<dl>
+  <dt>description term</dt>
+  <dd>
+    描述列表使用与其他列表类型不同的闭合标签 dl; 此外，每一项都用 dt 元素闭合。每个描述都用 dd (description description)元素闭合
+  </dd>
+  <dt>second item</dt>
+  <dd>
+    hhhhhhhhhhhhh
   </dd>
 </dl>
